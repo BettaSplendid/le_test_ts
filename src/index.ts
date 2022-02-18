@@ -1,5 +1,10 @@
 
+console.log("test")
 
-import { hello } from "./hello";
+import lapin from "./hello.js";
+
+console.log(lapin())
+
+import hello  from "./hello.js";
 
 console.log(hello())
